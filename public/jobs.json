@@ -1,0 +1,170 @@
+[
+  {
+    "id": "1",
+    "company": "Stripe",
+    "role": "Senior Frontend Engineer",
+    "link": "https://stripe.com/jobs",
+    "location": "San Francisco, CA (Remote)",
+    "salary": "$180,000 - $220,000",
+    "dateApplied": "2026-02-01",
+    "status": "Interview",
+    "notes": "Had initial screen with recruiter. Technical round next week.",
+    "tags": ["1", "3"],
+    "followUpDate": "2026-02-10",
+    "resumeLink": "",
+    "coverLetterLink": "",
+    "activity": [
+      { "id": "a1", "type": "created", "description": "Application submitted", "timestamp": "2026-02-01T10:00:00Z" },
+      { "id": "a2", "type": "status_change", "description": "Moved to Interview", "timestamp": "2026-02-05T14:00:00Z", "oldStatus": "Applied", "newStatus": "Interview" },
+      { "id": "a3", "type": "note", "description": "Recruiter mentioned team is growing fast", "timestamp": "2026-02-05T14:30:00Z" }
+    ],
+    "createdAt": "2026-02-01T10:00:00Z",
+    "updatedAt": "2026-02-05T14:30:00Z"
+  },
+  {
+    "id": "2",
+    "company": "Linear",
+    "role": "Product Engineer",
+    "link": "https://linear.app/careers",
+    "location": "Remote (US/EU)",
+    "salary": "$160,000 - $200,000",
+    "dateApplied": "2026-01-28",
+    "status": "Interview",
+    "notes": "Take-home project: build a mini issue tracker. Due in 5 days.",
+    "tags": ["1", "2"],
+    "followUpDate": "2026-02-08",
+    "resumeLink": "",
+    "coverLetterLink": "",
+    "activity": [
+      { "id": "a4", "type": "created", "description": "Application submitted", "timestamp": "2026-01-28T09:00:00Z" },
+      { "id": "a5", "type": "status_change", "description": "Moved to Assessment", "timestamp": "2026-02-03T11:00:00Z", "oldStatus": "Applied", "newStatus": "Assessment" }
+    ],
+    "createdAt": "2026-01-28T09:00:00Z",
+    "updatedAt": "2026-02-03T11:00:00Z"
+  },
+  {
+    "id": "3",
+    "company": "Vercel",
+    "role": "Staff Engineer - Next.js",
+    "link": "https://vercel.com/careers",
+    "location": "Remote",
+    "salary": "$200,000 - $260,000",
+    "dateApplied": "2026-02-03",
+    "status": "Applied",
+    "notes": "Applied through referral from Alex.",
+    "tags": ["1", "5"],
+    "followUpDate": "2026-02-12",
+    "resumeLink": "",
+    "coverLetterLink": "",
+    "activity": [
+      { "id": "a6", "type": "created", "description": "Application submitted via referral", "timestamp": "2026-02-03T16:00:00Z" }
+    ],
+    "createdAt": "2026-02-03T16:00:00Z",
+    "updatedAt": "2026-02-03T16:00:00Z"
+  },
+  {
+    "id": "4",
+    "company": "Notion",
+    "role": "Full Stack Engineer",
+    "link": "https://notion.so/careers",
+    "location": "New York, NY",
+    "salary": "$170,000 - $210,000",
+    "dateApplied": "2026-01-20",
+    "status": "Interview",
+    "notes": "Received offer! $195K + equity. Negotiating start date.",
+    "tags": ["3"],
+    "followUpDate": "",
+    "resumeLink": "",
+    "coverLetterLink": "",
+    "activity": [
+      { "id": "a7", "type": "created", "description": "Application submitted", "timestamp": "2026-01-20T08:00:00Z" },
+      { "id": "a8", "type": "status_change", "description": "Moved to Interview", "timestamp": "2026-01-25T10:00:00Z", "oldStatus": "Applied", "newStatus": "Interview" },
+      { "id": "a9", "type": "status_change", "description": "Moved to Offer", "timestamp": "2026-02-04T15:00:00Z", "oldStatus": "Interview", "newStatus": "Offer" },
+      { "id": "a10", "type": "note", "description": "Offer: $195K base + 0.05% equity", "timestamp": "2026-02-04T15:30:00Z" }
+    ],
+    "createdAt": "2026-01-20T08:00:00Z",
+    "updatedAt": "2026-02-04T15:30:00Z"
+  },
+  {
+    "id": "5",
+    "company": "Figma",
+    "role": "Design Engineer",
+    "link": "https://figma.com/careers",
+    "location": "San Francisco, CA",
+    "salary": "$165,000 - $205,000",
+    "dateApplied": "2026-01-15",
+    "status": "Rejected",
+    "notes": "Rejected after final round. Feedback: more design system experience needed.",
+    "tags": ["3"],
+    "followUpDate": "",
+    "resumeLink": "",
+    "coverLetterLink": "",
+    "activity": [
+      { "id": "a11", "type": "created", "description": "Application submitted", "timestamp": "2026-01-15T12:00:00Z" },
+      { "id": "a12", "type": "status_change", "description": "Moved to Interview", "timestamp": "2026-01-20T09:00:00Z", "oldStatus": "Applied", "newStatus": "Interview" },
+      { "id": "a13", "type": "status_change", "description": "Moved to Rejected", "timestamp": "2026-02-01T16:00:00Z", "oldStatus": "Interview", "newStatus": "Rejected" }
+    ],
+    "createdAt": "2026-01-15T12:00:00Z",
+    "updatedAt": "2026-02-01T16:00:00Z"
+  },
+  {
+    "id": "6",
+    "company": "Shopify",
+    "role": "React Developer",
+    "link": "https://shopify.com/careers",
+    "location": "Remote (Canada)",
+    "salary": "CAD $140,000 - $180,000",
+    "dateApplied": "2026-02-05",
+    "status": "Applied",
+    "notes": "",
+    "tags": ["1"],
+    "followUpDate": "2026-02-15",
+    "resumeLink": "",
+    "coverLetterLink": "",
+    "activity": [
+      { "id": "a14", "type": "created", "description": "Application submitted", "timestamp": "2026-02-05T11:00:00Z" }
+    ],
+    "createdAt": "2026-02-05T11:00:00Z",
+    "updatedAt": "2026-02-05T11:00:00Z"
+  },
+  {
+    "id": "7",
+    "company": "Airbnb",
+    "role": "Frontend Engineer II",
+    "link": "https://airbnb.com/careers",
+    "location": "San Francisco, CA",
+    "salary": "$175,000 - $215,000",
+    "dateApplied": "2026-02-06",
+    "status": "Applied",
+    "notes": "Applied via LinkedIn Easy Apply.",
+    "tags": ["3"],
+    "followUpDate": "2026-02-16",
+    "resumeLink": "",
+    "coverLetterLink": "",
+    "activity": [
+      { "id": "a15", "type": "created", "description": "Application submitted", "timestamp": "2026-02-06T13:00:00Z" }
+    ],
+    "createdAt": "2026-02-06T13:00:00Z",
+    "updatedAt": "2026-02-06T13:00:00Z"
+  },
+  {
+    "id": "8",
+    "company": "GitHub",
+    "role": "Software Engineer - Frontend",
+    "link": "https://github.com/careers",
+    "location": "Remote",
+    "salary": "$180,000 - $220,000",
+    "dateApplied": "2026-02-07",
+    "status": "Applied",
+    "notes": "Applied through GitHub Careers page.",
+    "tags": ["1", "5"],
+    "followUpDate": "2026-02-17",
+    "resumeLink": "",
+    "coverLetterLink": "",
+    "activity": [
+      { "id": "a16", "type": "created", "description": "Application submitted", "timestamp": "2026-02-07T15:00:00Z" }
+    ],
+    "createdAt": "2026-02-07T15:00:00Z",
+    "updatedAt": "2026-02-07T15:00:00Z"
+  }
+]
