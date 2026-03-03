@@ -32,7 +32,7 @@ function CTASection() {
 
         {/* CTA Button */}
         <Link 
-          to="/dashboard"
+          to="/add-job"
           className="inline-flex items-center gap-2 px-8 py-4 text-lg font-semibold rounded-xl transition-all duration-300 hover:gap-4"
           style={{
             background: "linear-gradient(135deg, hsl(187, 100%, 50%), hsl(200, 100%, 45%))",

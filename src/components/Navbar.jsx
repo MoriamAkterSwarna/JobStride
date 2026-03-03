@@ -14,7 +14,6 @@ const navLinks = [
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
 
-
   return (
     <>
       {/* Navbar */}
@@ -89,7 +88,7 @@ const navLinks = [
 
             <div className="pt-4 border-t space-y-3">
              
-                <Link to="/dashboard" className="w-full text-center bg-linear-to-r from-cyan-500 to-purple-500 text-white px-4 py-2 rounded-md flex items-center justify-center gap-2">
+                <Link to="/add-job" className="w-full text-center bg-linear-to-r from-cyan-500 to-purple-500 text-white px-4 py-2 rounded-md flex items-center justify-center gap-2">
                 <Plus></Plus> Add Job
                 </Link>
             </div>

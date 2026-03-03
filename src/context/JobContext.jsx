@@ -4,7 +4,7 @@ import { createContext, useContext, useState, useEffect } from "react";
 const JobContext = createContext();
 
 export const useJobs = () => {
-  const context = useContext(JobContext);
+  const context = useContext(JobContext);0
   if (!context) {
     throw new Error("useJobs must be used within a JobProvider");
   }

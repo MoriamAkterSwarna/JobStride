@@ -167,7 +167,7 @@ function PricingCard({ plan, index }) {
 
         {/* CTA */}
         <div whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }}>
-          <Link to="/dashboard">
+          <Link to="/add-job">
           
           <button
             className={`w-full h-12 text-lg font-semibold ${

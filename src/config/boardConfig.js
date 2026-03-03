@@ -2,18 +2,18 @@ export const statusFilters = ["All", "Applied", "Interview", "Rejected"];
 
 export const columnConfig = {
   Applied: { 
-    dot: "hsl(187, 100%, 50%)", 
-    glow: "hsla(187, 100%, 50%, 0.15)",
-    border: "hsla(187, 100%, 50%, 0.25)"
+    dot: "#00E1FF", 
+    glow: "#00E1FF26",
+    border: "#00E1FF40"
   },
   Interview: { 
-    dot: "hsl(45, 100%, 50%)", 
-    glow: "hsla(45, 100%, 50%, 0.15)",
-    border: "hsla(45, 100%, 50%, 0.25)"
+    dot: "#FFBF00", 
+    glow: "#FFBF0026",
+    border: "#FFBF0040"
   },
   Rejected: { 
-    dot: "hsl(0, 80%, 55%)", 
-    glow: "hsla(0, 80%, 55%, 0.15)",
-    border: "hsla(0, 80%, 55%, 0.25)"
+    dot: "#E83030", 
+    glow: "#E8303026",
+    border: "#E8303040"
   },
 };
